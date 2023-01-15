@@ -1,4 +1,5 @@
 # Breast Cancer Classification using Fine Needle Aspiration
+### ***Note: A more comprehensive documentation of this project can be found in the model(.ipynb) file***
 
 #### Research Background:
 > ### Prominent types of tumors
