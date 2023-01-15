@@ -1,5 +1,5 @@
 # Breast Cancer Classification using Fine Needle Aspiration
-### ***Note: A more comprehensive documentation of this project can be found in the model(.ipynb) file***
+### ***Note: A more comprehensive documentation of this project can be found in the model(.ipynb) file and the utilized dataset is taken from Kaggle for learning***
 
 #### Research Background:
 > ### Prominent types of tumors
